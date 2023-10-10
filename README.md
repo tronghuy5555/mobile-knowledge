@@ -17,3 +17,8 @@
 ### Clean Architecture
 ### MVC, MVP, MVVM, VIPER
 ### BLOC
+
+# Database
+### Android: Realm, Room
+### iOS: Realm, GRDB (https://github.com/groue/GRDB.swift), CoreData
+### Flutter: Drift (https://pub.dev/packages/drift), Floor (https://pub.dev/packages/floor), Isar (https://pub.dev/packages/isar)
